@@ -1,6 +1,14 @@
-# yes
+# Angular app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
+
+## Prerequisites
+
+To install all the dependencies to run the application, first run
+
+```
+npm install
+```
 
 ## Development server
 
