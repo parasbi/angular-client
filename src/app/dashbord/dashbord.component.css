@@ -1,0 +1,26 @@
+.third{
+    visibility: hidden;
+    border-radius: 0px;
+    border: none;
+    padding: 0px;
+    box-shadow: 1px 1px 2px 0 rgba(0,0,0,0.10);
+    max-height: 0;
+    display: block;
+    overflow: hidden;
+
+}
+.third:hover{
+    visibility:visible;
+}
+.paras{
+    padding-left: 500%;
+}
+.second{
+    padding-left: 250%;
+    font-size: 100%;
+    color:black;
+}
+.fourth{
+    padding-left:250%;
+    color: black;
+}
